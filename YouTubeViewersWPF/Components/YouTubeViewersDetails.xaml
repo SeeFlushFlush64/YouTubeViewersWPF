@@ -24,7 +24,7 @@
                 <TextBlock
                     Grid.Row="0"
                     FontSize="24"
-                    Text="Michael Rhey" />
+                    Text="Daniell Wayne" />
                 <Grid Grid.Row="1" Margin="0 20 0 0">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition />
